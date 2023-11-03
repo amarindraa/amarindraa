@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amarindraa
 - 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning practices in Machine Learning & Model Algorithm for supervised regression & classification, also unsupervised (clustering)
-- 💞️ I’m looking to collaborate on weather forecasting, predict loan default
+- 💞️ I’m looking to collaborate on weather forecasting, predict loan default, customer behaviour (unsupervised)
 - 📫 How to reach me at https://www.linkedin.com/in/amarindra-ardinova/
 
 <!---
